@@ -1,3 +1,6 @@
+[![@rphi's Holopin board][![@bartoopl's Holopin board](https://holopin.io/api/user/board?user=bartoopl)](https://holopin.io/@bartoopl)
+
+
 - 👋 Hi, I’m @bartoopl
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning REACT & Frameworks
